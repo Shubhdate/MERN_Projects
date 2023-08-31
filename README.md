@@ -5,6 +5,7 @@
 2) CRUD App with MERN Stack
 3) CRUD APP with Firebase
 4) React Resume Builder
+5) Firebase Simple Social Media 
 
 
 
